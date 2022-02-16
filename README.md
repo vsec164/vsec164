@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vsec164
-- 👀 I’m interested in IT, especially Cyber Security.
+- 👀 I’m interested in IT topics, especially Cyber Security.
 - 🌱 I’m currently learning Python 🐍
 
 <!---
